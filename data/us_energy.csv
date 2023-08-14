@@ -1,0 +1,480 @@
+type,year,quadrillion_btu
+Biomass Energy,1973,1.529068
+Biomass Energy,1974,1.539662
+Biomass Energy,1975,1.498733
+Biomass Energy,1976,1.713373
+Biomass Energy,1977,1.838331
+Biomass Energy,1978,2.037605
+Biomass Energy,1979,2.151906
+Biomass Energy,1980,2.475498
+Biomass Energy,1981,2.596282
+Biomass Energy,1982,2.663453
+Biomass Energy,1983,2.904415
+Biomass Energy,1984,2.971119
+Biomass Energy,1985,3.016234
+Biomass Energy,1986,2.932093
+Biomass Energy,1987,2.874886
+Biomass Energy,1988,3.01605
+Biomass Energy,1989,3.159357
+Biomass Energy,1990,2.735112
+Biomass Energy,1991,2.781798
+Biomass Energy,1992,2.931678
+Biomass Energy,1993,2.908446
+Biomass Energy,1994,3.027534
+Biomass Energy,1995,3.099081
+Biomass Energy,1996,3.1553
+Biomass Energy,1997,3.1079090000000003
+Biomass Energy,1998,2.928928
+Biomass Energy,1999,2.965132
+Biomass Energy,2000,3.0056599999999998
+Biomass Energy,2001,2.624164
+Biomass Energy,2002,2.705407
+Biomass Energy,2003,2.804776
+Biomass Energy,2004,2.9960180000000003
+Biomass Energy,2005,3.101186
+Biomass Energy,2006,3.211514
+Biomass Energy,2007,3.4720779999999998
+Biomass Energy,2008,3.868251
+Biomass Energy,2009,3.9566179999999997
+Biomass Energy,2010,4.552531
+Biomass Energy,2011,4.7124369999999995
+Biomass Energy,2012,4.553559
+Biomass Energy,2013,4.834796
+Biomass Energy,2014,5.052102
+Biomass Energy,2015,5.0313479999999995
+Biomass Energy,2016,5.131769
+Biomass Energy,2017,5.165727
+Biomass Energy,2018,5.314166
+Biomass Energy,2019,5.215023
+Biomass Energy,2020,4.805459
+Biomass Energy,2021,5.033275
+Biomass Energy,2022,4.673869
+Coal,1973,13.992124
+Coal,1974,14.074449999999999
+Coal,1975,14.989316
+Coal,1976,15.653687
+Coal,1977,15.754742
+Coal,1978,14.909809
+Coal,1979,17.539584
+Coal,1980,18.597726
+Coal,1981,18.376774
+Coal,1982,18.63875
+Coal,1983,17.246671
+Coal,1984,19.719216
+Coal,1985,19.325166
+Coal,1986,19.509466
+Coal,1987,20.141104
+Coal,1988,20.737639
+Coal,1989,21.360177
+Coal,1990,22.487549
+Coal,1991,21.636425
+Coal,1992,21.694133
+Coal,1993,20.335653
+Coal,1994,22.202083000000002
+Coal,1995,22.129551
+Coal,1996,22.790149
+Coal,1997,23.309614
+Coal,1998,24.045199
+Coal,1999,23.295085
+Coal,2000,22.735479
+Coal,2001,23.547077
+Coal,2002,22.732236999999998
+Coal,2003,22.093651
+Coal,2004,22.8521
+Coal,2005,23.185189
+Coal,2006,23.789511
+Coal,2007,23.492743
+Coal,2008,23.851366
+Coal,2009,21.623721
+Coal,2010,22.038226
+Coal,2011,22.221407
+Coal,2012,20.676894
+Coal,2013,20.001304
+Coal,2014,20.285706
+Coal,2015,17.946096
+Coal,2016,14.667088
+Coal,2017,15.625377
+Coal,2018,15.363443
+Coal,2019,14.255762
+Coal,2020,10.703214
+Coal,2021,11.596283
+Coal,2022,11.055251
+Crude Oil,1973,19.493237
+Crude Oil,1974,18.574993
+Crude Oil,1975,17.729319
+Crude Oil,1976,17.261843
+Crude Oil,1977,17.453737
+Crude Oil,1978,18.433652
+Crude Oil,1979,18.103597
+Crude Oil,1980,18.248918
+Crude Oil,1981,18.146017999999998
+Crude Oil,1982,18.308945
+Crude Oil,1983,18.391794
+Crude Oil,1984,18.848239
+Crude Oil,1985,18.992406
+Crude Oil,1986,18.37586
+Crude Oil,1987,17.674786
+Crude Oil,1988,17.27893
+Crude Oil,1989,16.116883
+Crude Oil,1990,15.571188
+Crude Oil,1991,15.700827
+Crude Oil,1992,15.222864
+Crude Oil,1993,14.494388
+Crude Oil,1994,14.102565
+Crude Oil,1995,13.886756
+Crude Oil,1996,13.722896
+Crude Oil,1997,13.65802
+Crude Oil,1998,13.235134
+Crude Oil,1999,12.451042
+Crude Oil,2000,12.358098
+Crude Oil,2001,12.281565
+Crude Oil,2002,12.160212
+Crude Oil,2003,11.959569
+Crude Oil,2004,11.550086
+Crude Oil,2005,10.974152
+Crude Oil,2006,10.766776
+Crude Oil,2007,10.741446
+Crude Oil,2008,10.613304
+Crude Oil,2009,11.340124
+Crude Oil,2010,11.610472
+Crude Oil,2011,12.012295
+Crude Oil,2012,13.84866
+Crude Oil,2013,15.871824
+Crude Oil,2014,18.615619
+Crude Oil,2015,19.701841
+Crude Oil,2016,18.529021
+Crude Oil,2017,19.550483
+Crude Oil,2018,22.812423
+Crude Oil,2019,25.612482
+Crude Oil,2020,23.573698
+Crude Oil,2021,23.372157
+Crude Oil,2022,22.542659999999998
+Geothermal Energy,1973,0.020422
+Geothermal Energy,1974,0.025611000000000002
+Geothermal Energy,1975,0.03378
+Geothermal Energy,1976,0.037513
+Geothermal Energy,1977,0.037383
+Geothermal Energy,1978,0.030851
+Geothermal Energy,1979,0.040259
+Geothermal Energy,1980,0.052699
+Geothermal Energy,1981,0.059436
+Geothermal Energy,1982,0.050628
+Geothermal Energy,1983,0.063911
+Geothermal Energy,1984,0.080809
+Geothermal Energy,1985,0.09742
+Geothermal Energy,1986,0.107676
+Geothermal Energy,1987,0.11226799999999999
+Geothermal Energy,1988,0.106338
+Geothermal Energy,1989,0.161541
+Geothermal Energy,1990,0.170746
+Geothermal Energy,1991,0.177626
+Geothermal Energy,1992,0.178698
+Geothermal Energy,1993,0.185674
+Geothermal Energy,1994,0.173464
+Geothermal Energy,1995,0.152057
+Geothermal Energy,1996,0.163359
+Geothermal Energy,1997,0.166697
+Geothermal Energy,1998,0.16845
+Geothermal Energy,1999,0.170921
+Geothermal Energy,2000,0.164364
+Geothermal Energy,2001,0.16446
+Geothermal Energy,2002,0.171164
+Geothermal Energy,2003,0.173444
+Geothermal Energy,2004,0.178147
+Geothermal Energy,2005,0.180701
+Geothermal Energy,2006,0.1812
+Geothermal Energy,2007,0.185774
+Geothermal Energy,2008,0.192433
+Geothermal Energy,2009,0.200186
+Geothermal Energy,2010,0.207978
+Geothermal Energy,2011,0.21231
+Geothermal Energy,2012,0.211593
+Geothermal Energy,2013,0.214007
+Geothermal Energy,2014,0.214475
+Geothermal Energy,2015,0.211757
+Geothermal Energy,2016,0.20954
+Geothermal Energy,2017,0.210156
+Geothermal Energy,2018,0.20876899999999998
+Geothermal Energy,2019,0.20119199999999998
+Geothermal Energy,2020,0.202804
+Geothermal Energy,2021,0.204765
+Geothermal Energy,2022,0.194647
+Hydroelectric Power,1973,2.861449
+Hydroelectric Power,1974,3.17658
+Hydroelectric Power,1975,3.154605
+Hydroelectric Power,1976,2.976265
+Hydroelectric Power,1977,2.333254
+Hydroelectric Power,1978,2.936983
+Hydroelectric Power,1979,2.930683
+Hydroelectric Power,1980,2.900143
+Hydroelectric Power,1981,2.757969
+Hydroelectric Power,1982,3.265558
+Hydroelectric Power,1983,3.527259
+Hydroelectric Power,1984,3.385812
+Hydroelectric Power,1985,2.970193
+Hydroelectric Power,1986,3.071179
+Hydroelectric Power,1987,2.634509
+Hydroelectric Power,1988,2.334266
+Hydroelectric Power,1989,2.837265
+Hydroelectric Power,1990,3.046389
+Hydroelectric Power,1991,3.0159439999999997
+Hydroelectric Power,1992,2.617435
+Hydroelectric Power,1993,2.891612
+Hydroelectric Power,1994,2.6834569999999998
+Hydroelectric Power,1995,3.205308
+Hydroelectric Power,1996,3.589656
+Hydroelectric Power,1997,3.6404579999999997
+Hydroelectric Power,1998,3.297054
+Hydroelectric Power,1999,3.2675739999999998
+Hydroelectric Power,2000,2.811117
+Hydroelectric Power,2001,2.241859
+Hydroelectric Power,2002,2.689019
+Hydroelectric Power,2003,2.79254
+Hydroelectric Power,2004,2.688467
+Hydroelectric Power,2005,2.702941
+Hydroelectric Power,2006,2.869034
+Hydroelectric Power,2007,2.446388
+Hydroelectric Power,2008,2.511109
+Hydroelectric Power,2009,2.6688229999999997
+Hydroelectric Power,2010,2.5385400000000002
+Hydroelectric Power,2011,3.1028540000000002
+Hydroelectric Power,2012,2.628703
+Hydroelectric Power,2013,2.562381
+Hydroelectric Power,2014,2.4663180000000002
+Hydroelectric Power,2015,2.3199330000000002
+Hydroelectric Power,2016,2.471371
+Hydroelectric Power,2017,2.765465
+Hydroelectric Power,2018,2.661385
+Hydroelectric Power,2019,2.561788
+Hydroelectric Power,2020,2.5009959999999998
+Hydroelectric Power,2021,2.224764
+Hydroelectric Power,2022,2.12426
+Natural Gas (Dry),1973,22.189393
+Natural Gas (Dry),1974,21.210112
+Natural Gas (Dry),1975,19.639955999999998
+Natural Gas (Dry),1976,19.48098
+Natural Gas (Dry),1977,19.568486
+Natural Gas (Dry),1978,19.485318
+Natural Gas (Dry),1979,20.076944
+Natural Gas (Dry),1980,19.908504
+Natural Gas (Dry),1981,19.698887
+Natural Gas (Dry),1982,18.31896
+Natural Gas (Dry),1983,16.593388
+Natural Gas (Dry),1984,18.007933
+Natural Gas (Dry),1985,16.98038
+Natural Gas (Dry),1986,16.5408
+Natural Gas (Dry),1987,17.135819
+Natural Gas (Dry),1988,17.598596999999998
+Natural Gas (Dry),1989,17.847276
+Natural Gas (Dry),1990,18.326156
+Natural Gas (Dry),1991,18.228737
+Natural Gas (Dry),1992,18.3751
+Natural Gas (Dry),1993,18.584038
+Natural Gas (Dry),1994,19.348014
+Natural Gas (Dry),1995,19.082246
+Natural Gas (Dry),1996,19.344268
+Natural Gas (Dry),1997,19.39385
+Natural Gas (Dry),1998,19.613295
+Natural Gas (Dry),1999,19.340703
+Natural Gas (Dry),2000,19.661528
+Natural Gas (Dry),2001,20.165568
+Natural Gas (Dry),2002,19.382056
+Natural Gas (Dry),2003,19.633301
+Natural Gas (Dry),2004,19.074255
+Natural Gas (Dry),2005,18.556015
+Natural Gas (Dry),2006,19.021707
+Natural Gas (Dry),2007,19.78621
+Natural Gas (Dry),2008,20.702884
+Natural Gas (Dry),2009,21.139451
+Natural Gas (Dry),2010,21.805764
+Natural Gas (Dry),2011,23.405719
+Natural Gas (Dry),2012,24.610066
+Natural Gas (Dry),2013,24.859073
+Natural Gas (Dry),2014,26.718073
+Natural Gas (Dry),2015,28.066882
+Natural Gas (Dry),2016,27.576023
+Natural Gas (Dry),2017,28.289335
+Natural Gas (Dry),2018,31.882148
+Natural Gas (Dry),2019,35.187184
+Natural Gas (Dry),2020,34.731982
+Natural Gas (Dry),2021,35.794956
+Natural Gas (Dry),2022,33.942886
+Natural Gas Plant Liquids,1973,2.534521
+Natural Gas Plant Liquids,1974,2.434819
+Natural Gas Plant Liquids,1975,2.337943
+Natural Gas Plant Liquids,1976,2.287715
+Natural Gas Plant Liquids,1977,2.285652
+Natural Gas Plant Liquids,1978,2.201958
+Natural Gas Plant Liquids,1979,2.232323
+Natural Gas Plant Liquids,1980,2.2248419999999998
+Natural Gas Plant Liquids,1981,2.266285
+Natural Gas Plant Liquids,1982,2.149202
+Natural Gas Plant Liquids,1983,2.136317
+Natural Gas Plant Liquids,1984,2.233808
+Natural Gas Plant Liquids,1985,2.203768
+Natural Gas Plant Liquids,1986,2.112879
+Natural Gas Plant Liquids,1987,2.178932
+Natural Gas Plant Liquids,1988,2.230688
+Natural Gas Plant Liquids,1989,2.123367
+Natural Gas Plant Liquids,1990,2.1382980000000003
+Natural Gas Plant Liquids,1991,2.265162
+Natural Gas Plant Liquids,1992,2.322585
+Natural Gas Plant Liquids,1993,2.36619
+Natural Gas Plant Liquids,1994,2.349386
+Natural Gas Plant Liquids,1995,2.397846
+Natural Gas Plant Liquids,1996,2.480343
+Natural Gas Plant Liquids,1997,2.444797
+Natural Gas Plant Liquids,1998,2.372296
+Natural Gas Plant Liquids,1999,2.472966
+Natural Gas Plant Liquids,2000,2.551467
+Natural Gas Plant Liquids,2001,2.490533
+Natural Gas Plant Liquids,2002,2.502204
+Natural Gas Plant Liquids,2003,2.296059
+Natural Gas Plant Liquids,2004,2.407582
+Natural Gas Plant Liquids,2005,2.279945
+Natural Gas Plant Liquids,2006,2.298717
+Natural Gas Plant Liquids,2007,2.348717
+Natural Gas Plant Liquids,2008,2.359299
+Natural Gas Plant Liquids,2009,2.508252
+Natural Gas Plant Liquids,2010,2.70483
+Natural Gas Plant Liquids,2011,2.890076
+Natural Gas Plant Liquids,2012,3.162127
+Natural Gas Plant Liquids,2013,3.451385
+Natural Gas Plant Liquids,2014,4.005084
+Natural Gas Plant Liquids,2015,4.475993
+Natural Gas Plant Liquids,2016,4.664784
+Natural Gas Plant Liquids,2017,4.987096
+Natural Gas Plant Liquids,2018,5.726974
+Natural Gas Plant Liquids,2019,6.351729
+Natural Gas Plant Liquids,2020,6.804762
+Natural Gas Plant Liquids,2021,7.098605
+Natural Gas Plant Liquids,2022,7.085032
+Nuclear Electric Power,1973,0.910178
+Nuclear Electric Power,1974,1.272084
+Nuclear Electric Power,1975,1.899797
+Nuclear Electric Power,1976,2.111119
+Nuclear Electric Power,1977,2.701763
+Nuclear Electric Power,1978,3.024125
+Nuclear Electric Power,1979,2.775826
+Nuclear Electric Power,1980,2.739169
+Nuclear Electric Power,1981,3.007592
+Nuclear Electric Power,1982,3.1311489999999997
+Nuclear Electric Power,1983,3.202549
+Nuclear Electric Power,1984,3.552531
+Nuclear Electric Power,1985,4.075563
+Nuclear Electric Power,1986,4.380109
+Nuclear Electric Power,1987,4.753932
+Nuclear Electric Power,1988,5.586967
+Nuclear Electric Power,1989,5.60216
+Nuclear Electric Power,1990,6.104349
+Nuclear Electric Power,1991,6.422134
+Nuclear Electric Power,1992,6.479207
+Nuclear Electric Power,1993,6.410498
+Nuclear Electric Power,1994,6.693877
+Nuclear Electric Power,1995,7.075435
+Nuclear Electric Power,1996,7.086675
+Nuclear Electric Power,1997,6.596992
+Nuclear Electric Power,1998,7.067811
+Nuclear Electric Power,1999,7.610254
+Nuclear Electric Power,2000,7.8623520000000005
+Nuclear Electric Power,2001,8.028853
+Nuclear Electric Power,2002,8.145428
+Nuclear Electric Power,2003,7.9596219999999995
+Nuclear Electric Power,2004,8.222774
+Nuclear Electric Power,2005,8.160811
+Nuclear Electric Power,2006,8.214627
+Nuclear Electric Power,2007,8.458591
+Nuclear Electric Power,2008,8.426492
+Nuclear Electric Power,2009,8.355220000000001
+Nuclear Electric Power,2010,8.434434
+Nuclear Electric Power,2011,8.268699
+Nuclear Electric Power,2012,8.061821
+Nuclear Electric Power,2013,8.244432
+Nuclear Electric Power,2014,8.337559
+Nuclear Electric Power,2015,8.336886
+Nuclear Electric Power,2016,8.426753
+Nuclear Electric Power,2017,8.418968
+Nuclear Electric Power,2018,8.438068
+Nuclear Electric Power,2019,8.451852
+Nuclear Electric Power,2020,8.251074
+Nuclear Electric Power,2021,8.115723
+Nuclear Electric Power,2022,7.325778
+Solar Energy,1984,5.5e-5
+Solar Energy,1985,1.1e-4
+Solar Energy,1986,1.46e-4
+Solar Energy,1987,1.0899999999999999e-4
+Solar Energy,1988,9.5e-5
+Solar Energy,1989,0.05448
+Solar Energy,1990,0.058785000000000004
+Solar Energy,1991,0.061642999999999996
+Solar Energy,1992,0.062904
+Solar Energy,1993,0.065216
+Solar Energy,1994,0.067155
+Solar Energy,1995,0.068266
+Solar Energy,1996,0.06917
+Solar Energy,1997,0.068208
+Solar Energy,1998,0.067495
+Solar Energy,1999,0.066121
+Solar Energy,2000,0.063532
+Solar Energy,2001,0.06175
+Solar Energy,2002,0.060068
+Solar Energy,2003,0.058535000000000004
+Solar Energy,2004,0.058502
+Solar Energy,2005,0.058081
+Solar Energy,2006,0.061026
+Solar Energy,2007,0.066003
+Solar Energy,2008,0.074818
+Solar Energy,2009,0.078991
+Solar Energy,2010,0.092527
+Solar Energy,2011,0.114452
+Solar Energy,2012,0.162249
+Solar Energy,2013,0.224998
+Solar Energy,2014,0.337393
+Solar Energy,2015,0.42654
+Solar Energy,2016,0.569997
+Solar Energy,2017,0.776538
+Solar Energy,2018,0.914546
+Solar Energy,2019,1.016419
+Solar Energy,2020,1.211454
+Solar Energy,2021,1.519055
+Solar Energy,2022,1.783368
+Wind Energy,1983,2.7e-5
+Wind Energy,1984,6.8e-5
+Wind Energy,1985,6.1e-5
+Wind Energy,1986,4.3e-5
+Wind Energy,1987,3.7e-5
+Wind Energy,1988,8e-6
+Wind Energy,1989,0.022033
+Wind Energy,1990,0.029007
+Wind Energy,1991,0.030795
+Wind Energy,1992,0.029864
+Wind Energy,1993,0.030987999999999998
+Wind Energy,1994,0.035561
+Wind Energy,1995,0.03263
+Wind Energy,1996,0.03344
+Wind Energy,1997,0.03358
+Wind Energy,1998,0.030853
+Wind Energy,1999,0.045895
+Wind Energy,2000,0.057059
+Wind Energy,2001,0.069616
+Wind Energy,2002,0.105335
+Wind Energy,2003,0.113273
+Wind Energy,2004,0.141663
+Wind Energy,2005,0.178087
+Wind Energy,2006,0.263736
+Wind Energy,2007,0.340503
+Wind Energy,2008,0.545547
+Wind Energy,2009,0.721128
+Wind Energy,2010,0.923427
+Wind Energy,2011,1.167636
+Wind Energy,2012,1.34006
+Wind Energy,2013,1.601359
+Wind Energy,2014,1.727359
+Wind Energy,2015,1.776352
+Wind Energy,2016,2.094687
+Wind Energy,2017,2.34162
+Wind Energy,2018,2.48073
+Wind Energy,2019,2.6330590000000003
+Wind Energy,2020,2.962702
+Wind Energy,2021,3.344394
+Wind Energy,2022,3.498114
